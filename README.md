@@ -9,25 +9,25 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML5,
-   - `div`
-- CSS,  
-   - `width`
-   - `root` 
-   - `padding`
-   - `border-radius`
-   - `height` 
-   - `background-color`
+  - `div`
+- CSS,
+  - `width`
+  - `root`
+  - `padding`
+  - `border-radius`
+  - `height`
+  - `background-color`
 - Linters
-   - [Prettier](https://prettier.io/),
-   - [Stylelint](https://stylelint.io/),
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
 - Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Deployment Link
+
 [Deployment-link](https://vercel.com/onikosi-omotayo-eniolas-projects/15-fcc-city-skyline-sz9r)
 
 ### Development (Running locally)
